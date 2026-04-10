@@ -1,6 +1,6 @@
 import time
 
-print("Привет, мир!6165")
+print("Привет, мир!")
 
 while True:
     time.sleep(1)
