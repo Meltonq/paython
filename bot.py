@@ -1,6 +1,6 @@
 import time
 
-print("Привет,Teset Deplццй2.0!")
+print("Привет,Teset Deplццй1232.0!")
 
 while True:
     time.sleep(1)
